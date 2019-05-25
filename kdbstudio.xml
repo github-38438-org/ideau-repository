@@ -1,0 +1,8 @@
+<application>
+  <component name="KDBStudio">
+    <option name="connections">
+      <list />
+    </option>
+    <option name="toolbarEnabled" value="false" />
+  </component>
+</application>
