@@ -3,8 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1558767379227">
+      <file name="/Dummy.txt" timestamp="1558899148618">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/Volumes/data/github.com/github-38438-org/gitea.io/README.md" timestamp="1558770152861">
         <mark key="[" line="0" column="9" />
@@ -18,10 +20,10 @@
     <jumps />
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Z2V0IA==</text>
+        <text>TOI+diyI02FiAuMo4LSmsL9jLnhw== github@38438.org</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Z2V0IA==</text>
+        <text>TOI+diyI02FiAuMo4LSmsL9jLnhw== github@38438.org</text>
       </register>
     </registers>
     <search>
@@ -34,7 +36,11 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
     <editor>
       <key-repeat enabled="true" />
     </editor>

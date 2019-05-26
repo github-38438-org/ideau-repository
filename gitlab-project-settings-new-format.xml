@@ -14,6 +14,342 @@
           <option name="namespace" value="user-set" />
           <option name="sshUrl" value="git@gitlab.com:ssssjetbrainsorg/user-set/bob447008888.git" />
         </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/ssss-cms/word-presss-desktop.git" />
+          <option name="name" value="word-presss-desktop" />
+          <option name="namespace" value="cms" />
+          <option name="sshUrl" value="git@gitlab.com:ssss-cms/word-presss-desktop.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/ssss38438org/conda/beakerx.git" />
+          <option name="name" value="beakerx" />
+          <option name="namespace" value="conda" />
+          <option name="sshUrl" value="git@gitlab.com:ssss38438org/conda/beakerx.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/ssss38438org/conda/conda-setup.git" />
+          <option name="name" value="conda-setup" />
+          <option name="namespace" value="conda" />
+          <option name="sshUrl" value="git@gitlab.com:ssss38438org/conda/conda-setup.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/ssss38438org/conda/jupyterlab.git" />
+          <option name="name" value="jupyterlab" />
+          <option name="namespace" value="conda" />
+          <option name="sshUrl" value="git@gitlab.com:ssss38438org/conda/jupyterlab.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/ssss38438org/b-runtime/conda/setup.git" />
+          <option name="name" value="setup" />
+          <option name="namespace" value="conda" />
+          <option name="sshUrl" value="git@gitlab.com:ssss38438org/b-runtime/conda/setup.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/ssss38438org/b-runtime/conda/source.git" />
+          <option name="name" value="source" />
+          <option name="namespace" value="conda" />
+          <option name="sshUrl" value="git@gitlab.com:ssss38438org/b-runtime/conda/source.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/ssss38438org/kvm/guac-install.git" />
+          <option name="name" value="guac-install" />
+          <option name="namespace" value="kvm" />
+          <option name="sshUrl" value="git@gitlab.com:ssss38438org/kvm/guac-install.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/ssss38438org/kvm/kimchi.git" />
+          <option name="name" value="kimchi" />
+          <option name="namespace" value="kvm" />
+          <option name="sshUrl" value="git@gitlab.com:ssss38438org/kvm/kimchi.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/ssss38438org/kvm/kvm-tools.git" />
+          <option name="name" value="kvm-tools" />
+          <option name="namespace" value="kvm" />
+          <option name="sshUrl" value="git@gitlab.com:ssss38438org/kvm/kvm-tools.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/ssss38438org/kvm/ravada.git" />
+          <option name="name" value="ravada" />
+          <option name="namespace" value="kvm" />
+          <option name="sshUrl" value="git@gitlab.com:ssss38438org/kvm/ravada.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/ssss38438org/kvm/virt-manager.git" />
+          <option name="name" value="virt-manager" />
+          <option name="namespace" value="kvm" />
+          <option name="sshUrl" value="git@gitlab.com:ssss38438org/kvm/virt-manager.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/ssss38438org/kvm/Virtlyst.git" />
+          <option name="name" value="Virtlyst" />
+          <option name="namespace" value="kvm" />
+          <option name="sshUrl" value="git@gitlab.com:ssss38438org/kvm/Virtlyst.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/ssss38438org/kvm/vmdash.git" />
+          <option name="name" value="vmdash" />
+          <option name="namespace" value="kvm" />
+          <option name="sshUrl" value="git@gitlab.com:ssss38438org/kvm/vmdash.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/ssss38438org/linux-system/multipass.git" />
+          <option name="name" value="multipass" />
+          <option name="namespace" value="linux-system" />
+          <option name="sshUrl" value="git@gitlab.com:ssss38438org/linux-system/multipass.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/ssss38438org/linux-system/ubuntu-img-sh.git" />
+          <option name="name" value="ubuntu-img-sh" />
+          <option name="namespace" value="linux-system" />
+          <option name="sshUrl" value="git@gitlab.com:ssss38438org/linux-system/ubuntu-img-sh.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/ssss38438org/local.shell/web-ssh-tty.git" />
+          <option name="name" value="web-ssh-tty" />
+          <option name="namespace" value="local.shell" />
+          <option name="sshUrl" value="git@gitlab.com:ssss38438org/local.shell/web-ssh-tty.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/s38438org/aws-cli.git" />
+          <option name="name" value="aws-cli" />
+          <option name="namespace" value="s38438org" />
+          <option name="sshUrl" value="git@gitlab.com:s38438org/aws-cli.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/s38438org/aws-shell.git" />
+          <option name="name" value="aws-shell" />
+          <option name="namespace" value="s38438org" />
+          <option name="sshUrl" value="git@gitlab.com:s38438org/aws-shell.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/s38438org/localstack.git" />
+          <option name="name" value="localstack" />
+          <option name="namespace" value="s38438org" />
+          <option name="sshUrl" value="git@gitlab.com:s38438org/localstack.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/ssssjetbrainsorg/set-pytharm/bo447008888.git" />
+          <option name="name" value="bo447008888" />
+          <option name="namespace" value="set-pytharm" />
+          <option name="sshUrl" value="git@gitlab.com:ssssjetbrainsorg/set-pytharm/bo447008888.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/ssss38438org/linux-system/setup-novnc/setup-vnc-env.git" />
+          <option name="name" value="setup-vnc-env" />
+          <option name="namespace" value="setup-novnc" />
+          <option name="sshUrl" value="git@gitlab.com:ssss38438org/linux-system/setup-novnc/setup-vnc-env.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/ssss38438org/linux-system/supervisor/node-supervisor.git" />
+          <option name="name" value="node-supervisor" />
+          <option name="namespace" value="supervisor " />
+          <option name="sshUrl" value="git@gitlab.com:ssss38438org/linux-system/supervisor/node-supervisor.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/ssss38438org/linux-system/supervisor/supervisor.git" />
+          <option name="name" value="supervisor" />
+          <option name="namespace" value="supervisor " />
+          <option name="sshUrl" value="git@gitlab.com:ssss38438org/linux-system/supervisor/supervisor.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/ssss38438org/linux-system/supervisor/supervisord.git" />
+          <option name="name" value="supervisord" />
+          <option name="namespace" value="supervisor " />
+          <option name="sshUrl" value="git@gitlab.com:ssss38438org/linux-system/supervisor/supervisord.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/ssssjetbrainsorg/user-set/bob447008888.git" />
+          <option name="name" value="bob447008888" />
+          <option name="namespace" value="user-set" />
+          <option name="sshUrl" value="git@gitlab.com:ssssjetbrainsorg/user-set/bob447008888.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/ssss38438org/webterminal/aws-virtual-bastion.git" />
+          <option name="name" value="aws-virtual-astion" />
+          <option name="namespace" value="webterminal" />
+          <option name="sshUrl" value="git@gitlab.com:ssss38438org/webterminal/aws-virtual-bastion.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/ssss38438org/webterminal/jumpserver.git" />
+          <option name="name" value="jumpserver" />
+          <option name="namespace" value="webterminal" />
+          <option name="sshUrl" value="git@gitlab.com:ssss38438org/webterminal/jumpserver.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/ssss38438org/webterminal/webterminal-dev.git" />
+          <option name="name" value="webterminal-dev" />
+          <option name="namespace" value="webterminal" />
+          <option name="sshUrl" value="git@gitlab.com:ssss38438org/webterminal/webterminal-dev.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/ssss-cms/word-presss-desktop.git" />
+          <option name="name" value="word-presss-desktop" />
+          <option name="namespace" value="cms" />
+          <option name="sshUrl" value="git@gitlab.com:ssss-cms/word-presss-desktop.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/ssss38438org/conda/beakerx.git" />
+          <option name="name" value="beakerx" />
+          <option name="namespace" value="conda" />
+          <option name="sshUrl" value="git@gitlab.com:ssss38438org/conda/beakerx.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/ssss38438org/conda/conda-setup.git" />
+          <option name="name" value="conda-setup" />
+          <option name="namespace" value="conda" />
+          <option name="sshUrl" value="git@gitlab.com:ssss38438org/conda/conda-setup.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/ssss38438org/conda/jupyterlab.git" />
+          <option name="name" value="jupyterlab" />
+          <option name="namespace" value="conda" />
+          <option name="sshUrl" value="git@gitlab.com:ssss38438org/conda/jupyterlab.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/ssss38438org/b-runtime/conda/setup.git" />
+          <option name="name" value="setup" />
+          <option name="namespace" value="conda" />
+          <option name="sshUrl" value="git@gitlab.com:ssss38438org/b-runtime/conda/setup.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/ssss38438org/b-runtime/conda/source.git" />
+          <option name="name" value="source" />
+          <option name="namespace" value="conda" />
+          <option name="sshUrl" value="git@gitlab.com:ssss38438org/b-runtime/conda/source.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/ssss38438org/kvm/guac-install.git" />
+          <option name="name" value="guac-install" />
+          <option name="namespace" value="kvm" />
+          <option name="sshUrl" value="git@gitlab.com:ssss38438org/kvm/guac-install.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/ssss38438org/kvm/kimchi.git" />
+          <option name="name" value="kimchi" />
+          <option name="namespace" value="kvm" />
+          <option name="sshUrl" value="git@gitlab.com:ssss38438org/kvm/kimchi.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/ssss38438org/kvm/kvm-tools.git" />
+          <option name="name" value="kvm-tools" />
+          <option name="namespace" value="kvm" />
+          <option name="sshUrl" value="git@gitlab.com:ssss38438org/kvm/kvm-tools.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/ssss38438org/kvm/ravada.git" />
+          <option name="name" value="ravada" />
+          <option name="namespace" value="kvm" />
+          <option name="sshUrl" value="git@gitlab.com:ssss38438org/kvm/ravada.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/ssss38438org/kvm/virt-manager.git" />
+          <option name="name" value="virt-manager" />
+          <option name="namespace" value="kvm" />
+          <option name="sshUrl" value="git@gitlab.com:ssss38438org/kvm/virt-manager.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/ssss38438org/kvm/Virtlyst.git" />
+          <option name="name" value="Virtlyst" />
+          <option name="namespace" value="kvm" />
+          <option name="sshUrl" value="git@gitlab.com:ssss38438org/kvm/Virtlyst.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/ssss38438org/kvm/vmdash.git" />
+          <option name="name" value="vmdash" />
+          <option name="namespace" value="kvm" />
+          <option name="sshUrl" value="git@gitlab.com:ssss38438org/kvm/vmdash.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/ssss38438org/linux-system/multipass.git" />
+          <option name="name" value="multipass" />
+          <option name="namespace" value="linux-system" />
+          <option name="sshUrl" value="git@gitlab.com:ssss38438org/linux-system/multipass.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/ssss38438org/linux-system/ubuntu-img-sh.git" />
+          <option name="name" value="ubuntu-img-sh" />
+          <option name="namespace" value="linux-system" />
+          <option name="sshUrl" value="git@gitlab.com:ssss38438org/linux-system/ubuntu-img-sh.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/ssss38438org/local.shell/web-ssh-tty.git" />
+          <option name="name" value="web-ssh-tty" />
+          <option name="namespace" value="local.shell" />
+          <option name="sshUrl" value="git@gitlab.com:ssss38438org/local.shell/web-ssh-tty.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/s38438org/aws-cli.git" />
+          <option name="name" value="aws-cli" />
+          <option name="namespace" value="s38438org" />
+          <option name="sshUrl" value="git@gitlab.com:s38438org/aws-cli.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/s38438org/aws-shell.git" />
+          <option name="name" value="aws-shell" />
+          <option name="namespace" value="s38438org" />
+          <option name="sshUrl" value="git@gitlab.com:s38438org/aws-shell.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/s38438org/localstack.git" />
+          <option name="name" value="localstack" />
+          <option name="namespace" value="s38438org" />
+          <option name="sshUrl" value="git@gitlab.com:s38438org/localstack.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/ssssjetbrainsorg/set-pytharm/bo447008888.git" />
+          <option name="name" value="bo447008888" />
+          <option name="namespace" value="set-pytharm" />
+          <option name="sshUrl" value="git@gitlab.com:ssssjetbrainsorg/set-pytharm/bo447008888.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/ssss38438org/linux-system/setup-novnc/setup-vnc-env.git" />
+          <option name="name" value="setup-vnc-env" />
+          <option name="namespace" value="setup-novnc" />
+          <option name="sshUrl" value="git@gitlab.com:ssss38438org/linux-system/setup-novnc/setup-vnc-env.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/ssss38438org/linux-system/supervisor/node-supervisor.git" />
+          <option name="name" value="node-supervisor" />
+          <option name="namespace" value="supervisor " />
+          <option name="sshUrl" value="git@gitlab.com:ssss38438org/linux-system/supervisor/node-supervisor.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/ssss38438org/linux-system/supervisor/supervisor.git" />
+          <option name="name" value="supervisor" />
+          <option name="namespace" value="supervisor " />
+          <option name="sshUrl" value="git@gitlab.com:ssss38438org/linux-system/supervisor/supervisor.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/ssss38438org/linux-system/supervisor/supervisord.git" />
+          <option name="name" value="supervisord" />
+          <option name="namespace" value="supervisor " />
+          <option name="sshUrl" value="git@gitlab.com:ssss38438org/linux-system/supervisor/supervisord.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/ssssjetbrainsorg/user-set/bob447008888.git" />
+          <option name="name" value="bob447008888" />
+          <option name="namespace" value="user-set" />
+          <option name="sshUrl" value="git@gitlab.com:ssssjetbrainsorg/user-set/bob447008888.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/ssss38438org/webterminal/aws-virtual-bastion.git" />
+          <option name="name" value="aws-virtual-astion" />
+          <option name="namespace" value="webterminal" />
+          <option name="sshUrl" value="git@gitlab.com:ssss38438org/webterminal/aws-virtual-bastion.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/ssss38438org/webterminal/jumpserver.git" />
+          <option name="name" value="jumpserver" />
+          <option name="namespace" value="webterminal" />
+          <option name="sshUrl" value="git@gitlab.com:ssss38438org/webterminal/jumpserver.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/ssss38438org/webterminal/webterminal-dev.git" />
+          <option name="name" value="webterminal-dev" />
+          <option name="namespace" value="webterminal" />
+          <option name="sshUrl" value="git@gitlab.com:ssss38438org/webterminal/webterminal-dev.git" />
+        </ProjectDto>
       </list>
     </option>
     <option name="gitlabServers">
