@@ -30,8 +30,20 @@
           <option name="url" value="git@git.code.tencent.com:git-admin/gitea.io.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.code.tencent.com/git-admin/gitbucket.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.code.tencent.com:git-admin/gitbucket.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/github-38438-org/gitbucket.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="/Volumes/data/git.code.tencent.com/git-admin" />
+    <option name="cloneParentDir" value="/Volumes/data/git.code.tencent.com/git-admin/gitbucket" />
   </component>
 </application>
