@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1558935041480">
+      <file name="/Dummy.txt" timestamp="1559013247448">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -11,9 +11,14 @@
       <file name="/Volumes/data/github.com/github-38438-org/gitea.io/README.md" timestamp="1558770152861">
         <mark key="[" line="0" column="9" />
       </file>
-      <file name="/Volumes/data/git.code.tencent.com/git-admin/gitea.io/init.sh" timestamp="1559011997339">
+      <file name="/Volumes/data/git.code.tencent.com/git-admin/gitea.io/init.sh" timestamp="1559013001945">
         <mark key="'" line="11" column="0" />
         <mark key="[" line="11" column="10" />
+      </file>
+      <file name="/Volumes/data/git.code.tencent.com/git-admin/gitea.io/.gitmodules" timestamp="1559013223663">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/Volumes/data/github.com/github-38438-org/gitea.io/down.sh" timestamp="1558770307313">
         <mark key="[" line="11" column="9" />
@@ -25,8 +30,33 @@
       <jump line="11" column="0" filename="/Volumes/data/git.code.tencent.com/git-admin/gitea.io/init.sh" />
     </jumps>
     <registers>
+      <register name="1" type="4">
+        <text>[submodule &quot;git-ext/gitignore&quot;]
+	path = git-ext/gitignore
+	url = https://github.com/github-38438-org/gitignore.git
+[submodule &quot;git-ext/gitbook&quot;]
+	path = git-ext/gitbook
+	url = https://github.com/github-38438-org/gitbook.git
+[submodule &quot;git-ext/bat&quot;]
+	path = git-ext/bat
+	url = https://github.com/github-38438-org/bat.git
+[submodule &quot;git-ext/walle-web&quot;]
+	path = git-ext/walle-web
+	url = https://github.com/github-38438-org/walle-web.git</text>
+      </register>
       <register name="&quot;" type="4">
-        <text>TOI+diyI02FiAuMo4LSmsL9jLnhw== github@38438.org</text>
+        <text>[submodule &quot;git-ext/gitignore&quot;]
+	path = git-ext/gitignore
+	url = https://github.com/github-38438-org/gitignore.git
+[submodule &quot;git-ext/gitbook&quot;]
+	path = git-ext/gitbook
+	url = https://github.com/github-38438-org/gitbook.git
+[submodule &quot;git-ext/bat&quot;]
+	path = git-ext/bat
+	url = https://github.com/github-38438-org/bat.git
+[submodule &quot;git-ext/walle-web&quot;]
+	path = git-ext/walle-web
+	url = https://github.com/github-38438-org/walle-web.git</text>
       </register>
       <register name="-" type="4">
         <text>TOI+diyI02FiAuMo4LSmsL9jLnhw== github@38438.org</text>
