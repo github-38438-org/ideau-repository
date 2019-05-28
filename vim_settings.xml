@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1559013247448">
+      <file name="/Dummy.txt" timestamp="1559025830270">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -31,20 +31,12 @@
     </jumps>
     <registers>
       <register name="1" type="4">
-        <text>[submodule &quot;git-ext/gitignore&quot;]
-	path = git-ext/gitignore
-	url = https://github.com/github-38438-org/gitignore.git
-[submodule &quot;git-ext/gitbook&quot;]
-	path = git-ext/gitbook
-	url = https://github.com/github-38438-org/gitbook.git
-[submodule &quot;git-ext/bat&quot;]
-	path = git-ext/bat
-	url = https://github.com/github-38438-org/bat.git
-[submodule &quot;git-ext/walle-web&quot;]
-	path = git-ext/walle-web
-	url = https://github.com/github-38438-org/walle-web.git</text>
+        <text encoding="base64">CjEzOjU0CUFXUyBDcmVkZW50aWFsczogWW91ciBBV1MgY3JlZGVudGlhbHMgaGF2ZSBiZWVuIHJlbG9hZGVkIGZyb20gZGlzay4gRm91bmQgMCBwcm9maWxlcy4=</text>
       </register>
       <register name="&quot;" type="4">
+        <text encoding="base64">CjEzOjU0CUFXUyBDcmVkZW50aWFsczogWW91ciBBV1MgY3JlZGVudGlhbHMgaGF2ZSBiZWVuIHJlbG9hZGVkIGZyb20gZGlzay4gRm91bmQgMCBwcm9maWxlcy4=</text>
+      </register>
+      <register name="2" type="4">
         <text>[submodule &quot;git-ext/gitignore&quot;]
 	path = git-ext/gitignore
 	url = https://github.com/github-38438-org/gitignore.git
