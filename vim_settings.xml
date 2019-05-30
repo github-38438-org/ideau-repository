@@ -34,7 +34,7 @@
         <text encoding="base64">CjEzOjU0CUFXUyBDcmVkZW50aWFsczogWW91ciBBV1MgY3JlZGVudGlhbHMgaGF2ZSBiZWVuIHJlbG9hZGVkIGZyb20gZGlzay4gRm91bmQgMCBwcm9maWxlcy4=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CjEzOjU0CUFXUyBDcmVkZW50aWFsczogWW91ciBBV1MgY3JlZGVudGlhbHMgaGF2ZSBiZWVuIHJlbG9hZGVkIGZyb20gZGlzay4gRm91bmQgMCBwcm9maWxlcy4=</text>
+        <text>gitea-1.8-darwin-10.6-amd64</text>
       </register>
       <register name="2" type="4">
         <text>[submodule &quot;git-ext/gitignore&quot;]
@@ -51,7 +51,7 @@
 	url = https://github.com/github-38438-org/walle-web.git</text>
       </register>
       <register name="-" type="4">
-        <text>TOI+diyI02FiAuMo4LSmsL9jLnhw== github@38438.org</text>
+        <text>gitea-1.8-darwin-10.6-amd64</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnaXRcPg==</text>
